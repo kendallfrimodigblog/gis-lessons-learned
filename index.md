@@ -21,20 +21,11 @@ oblivious to these developments as I found my field of practice either insulated
 
 <p style="line-height:2">
 Today I will focus primarily on providing cliff notes for someone undertaking their first geostatistical project today - but I must first defend my caveman like methods employed just 4 years ago, when I completed my first geospatial predictive model
-Here are a few illustrations.
+Here are a few illustrations of the developments taking place from 2016-2018.
 </p>
 
 
 <br>
-
-- whilst in graduate school the world data-sphere doubles in size
-
-<br>
-
-![](https://data-flair.training/blogs/wp-content/uploads/sites/2/2019/10/Growth-of-Data-sphere-data-science-career.png)
-
-<br>
-
 - development of data science libraries take off
 
 <br>
@@ -76,6 +67,8 @@ API, python library, or GIS method I'm trying to understand. (not upset)
 
 ![](https://allthingsnuclear.org/wp-content/uploads/2021/07/growth-of-sattelites-bar-graph.jpg)
 
+<br>
+
 <p style="line-height:2">
 With the pace we're seeing here, it will likely take some time for such changes to be reflected in textbooks. If you're working on a more advanced spatial regression problem, you might still want to crack open the textbook as there's many methods and associated parameters worth tuning. If you're looking to calculate a vegetative index, or classify land use characteristics, I have great news. </p>
 
@@ -106,7 +99,8 @@ Start your new project here, with the technical walk-throughs provided, and you 
 
 <br>
 <p style="line-height:2">
-The modern GIS workflow is highlighted by outsourcing storage and computational resources, applying neural networks for object classification, and leveraging imagery with higher spatial and temporal (detail, frequency of snapshots) resolution to tackle problems not imagined previously. Particularly, the reduced cost and software now available for DIY style drone based data collection has shown great promise (resolution of 3cm in this [case](https://www.frontiersin.org/articles/10.3389/feart.2020.00319/full)).</p>
+The modern GIS workflow is highlighted by outsourcing storage and computational resources, applying neural networks for object classification, and leveraging imagery with higher spatial and temporal (detail, frequency of snapshots) resolution to tackle problems not imagined previously. Particularly, the reduced cost and software now available for DIY style drone based data collection has shown great promise - resolution of < 10 cm often. 
+</p>
 
 <br>
 <p style="line-height:2">
@@ -126,8 +120,10 @@ Introductions
 
 - Guided jupyter tutorial for working with EO in python and scripting in earth engine.. [link](https://www.youtube.com/watch?v=j15MryznWn4)
 
-Earth engine
+<br>
 
+
+Earth engine
 
 
 - Earth Engine 101.. [link](https://www.youtube.com/watch?v=oAElakLgCdA)
@@ -136,6 +132,8 @@ Earth engine
 - Workflow for using full google cloud stack for Earth Engine (with this, you could conduct a project from your phone!)..[link](https://www.youtube.com/watch?v=CKYPhCwyoy4)
 
 - Land type classification, from python using supervised classification.. [link](https://www.youtube.com/watch?v=Nkd9zHrou9U)
+
+<br>
 
 Sentinel Hub
 
